@@ -20,8 +20,6 @@ $tmp.remove();
 <div>
 	<p>Промокод на скидку 5% на первый заказ</p>	
 </div>
-<div id="text1">
-	<p>rI7CaCS6FY</p>	
-</div>
+<div id="text1">I7CaCS6FY</div>
   
 <section id="downloads"><a onclick="copytext('#text1')" class="btn btn-github">Скопировать промокод -5%</a></section>
