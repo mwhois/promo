@@ -1,6 +1,8 @@
 ### Промокод Proxy6
-
-<script src="https://mwhois.github.io/promo/jquery-3.5.1.min.js"></script>
+<head>
+	<script src="https://mwhois.github.io/promo/jquery-3.5.1.min.js"></script>
+	
+</head>
 
 
 function copytext(el) {
