@@ -5,13 +5,15 @@
 </head>
 
 
+<script type="text/javascript">
 function copytext(el) {
-    var $tmp = $("<textarea>");
-    $("body").append($tmp);
-    $tmp.val($(el).text()).select();
-    document.execCommand("copy");
-    $tmp.remove();
-}  
+var $tmp = $("<textarea>");
+$("body").append($tmp);
+$tmp.val($(el).text()).select();
+document.execCommand("copy");
+$tmp.remove();
+}	
+</script>
 
 [![изображение](https://user-images.githubusercontent.com/110848298/183482156-8ba8fab4-e63d-4dd9-883b-85b343c0bf2a.png)](https://proxy6.net/d/253342)
 
